@@ -2,8 +2,8 @@
 This Python script scrapes Machine Translation sites based on input in Source.xlsx
 
 ## TO DO
-* [x] Count characters from DF
-* Function-ify everything
+1. [x] Count characters from DF
+2. Function-ify everything
     1. Websites 
         * [x] Google
             * [x] "413. That’s an error. Your client issued a request that was too large. That’s all we know."
@@ -21,3 +21,4 @@ This Python script scrapes Machine Translation sites based on input in Source.xl
     3. Global Bugs
         * [x] Replace \n with a space
         * [x] Omit empty strings in the final list
+3. Convert Data to SQL

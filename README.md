@@ -19,6 +19,7 @@ This Python script scrapes Machine Translation sites based on input in Source.xl
         * [x] SoGou
             * **Output text not working currently**
     2. [x] Put it all into an Excel sheet
+        * Add 1 to the index column // TODO
     3. Global Bugs
         * [x] Replace \n with a space
         * [x] Omit empty strings in the final list

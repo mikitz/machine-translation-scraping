@@ -17,6 +17,7 @@ This Python script scrapes Machine Translation sites based on input in Source.xl
                 * [x] xpath: //*[@id="dl_translator"]/div[5]/div[1]
                 * [x] May be able to just have it pause every 1000 characters 
         * [x] SoGou
+            * **Output text not working currently**
     2. [x] Put it all into an Excel sheet
     3. Global Bugs
         * [x] Replace \n with a space
